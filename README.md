@@ -11,7 +11,7 @@ Feel free to go to any of these project template repositories and clone them to 
 
 ## List
 
-* [Python (General Workspace)](https://github.com/Thanatisia/project-template-python)
+* [Python (General Workspace)](https://github.com/Thanatisia/workspace-template-python)
 
 ## Contacts
 
